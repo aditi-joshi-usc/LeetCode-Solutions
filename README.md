@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Tree
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+## Math
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+## String
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
