@@ -4,14 +4,16 @@ class Solution:
         l = 0
         maxlen =0 
         len_nums = len(nums)
-        running_count =0 
+        zero_count =0 
         
         for r in range(len_nums):
-            k-=1-nums[r]
-
-            if k<0:
-                k+= 1-nums[l]
-                l+=1
-        return r - l +1
-
+            if nums[r] == 0:
+                zero_count+=1
+            
+            if zero_count > k:
+                if nums[l] == 0:
+                    zero_count-=1
+                l=l+1
+            maxlen = max(maxlen, r-l+1)
+        return maxlen
             
