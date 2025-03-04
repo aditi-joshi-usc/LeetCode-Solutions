@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0339-nested-list-weight-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0339-nested-list-weight-sum) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Binary Search Tree
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0339-nested-list-weight-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0339-nested-list-weight-sum) |
 <!---LeetCode Topics End-->
