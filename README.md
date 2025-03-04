@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Database
+|  |
+| ------- |
+| [1481-students-with-invalid-departments](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1481-students-with-invalid-departments) |
 <!---LeetCode Topics End-->
