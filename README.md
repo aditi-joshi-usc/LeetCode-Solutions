@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
