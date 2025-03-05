@@ -26,7 +26,9 @@ class Solution:
 
         for i in range(m):
             for j in range(n):
-                if i-1 >=0 and j-1 >= 0 and matrix[i-1][j-1] != matrix[i][j]:
+                x = i-1
+                y = j-1
+                if  x>=0 and  y>= 0 and matrix[x][y] != matrix[i][j]:
                     return False
 
         return True
