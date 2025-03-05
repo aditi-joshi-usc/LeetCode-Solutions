@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1181-game-play-analysis-iii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1181-game-play-analysis-iii) |
 | [1399-page-recommendations](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1399-page-recommendations) |
 | [1481-students-with-invalid-departments](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1481-students-with-invalid-departments) |
+| [1898-leetflex-banned-accounts](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1898-leetflex-banned-accounts) |
 | [1932-grand-slam-titles](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1932-grand-slam-titles) |
 ## Hash Table
 |  |
