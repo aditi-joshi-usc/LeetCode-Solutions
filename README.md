@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0807-custom-sort-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0807-custom-sort-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
 | ------- |
