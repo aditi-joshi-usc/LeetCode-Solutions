@@ -46,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0415-add-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0415-add-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0807-custom-sort-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 ## Design
 |  |
