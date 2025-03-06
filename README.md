@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-the-most-recent-orders-for-each-product](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1688-the-most-recent-orders-for-each-product) |
 | [1898-leetflex-banned-accounts](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1898-leetflex-banned-accounts) |
 | [1932-grand-slam-titles](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1932-grand-slam-titles) |
+| [1981-maximum-transaction-each-day](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1981-maximum-transaction-each-day) |
 ## Hash Table
 |  |
 | ------- |
