@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1180-game-play-analysis-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1180-game-play-analysis-ii) |
 | [1181-game-play-analysis-iii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1181-game-play-analysis-iii) |
 | [1399-page-recommendations](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1399-page-recommendations) |
+| [1420-find-the-start-and-end-number-of-continuous-ranges](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1420-find-the-start-and-end-number-of-continuous-ranges) |
 | [1438-find-the-team-size](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1438-find-the-team-size) |
 | [1481-students-with-invalid-departments](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1481-students-with-invalid-departments) |
 | [1671-the-most-recent-three-orders](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1671-the-most-recent-three-orders) |
