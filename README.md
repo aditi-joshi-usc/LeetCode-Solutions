@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0270-closest-binary-search-tree-value](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0339-nested-list-weight-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0339-nested-list-weight-sum) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0339-nested-list-weight-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0339-nested-list-weight-sum) |
 ## Array
 |  |
@@ -146,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
