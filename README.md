@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1420-find-the-start-and-end-number-of-continuous-ranges](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1420-find-the-start-and-end-number-of-continuous-ranges) |
 | [1438-find-the-team-size](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1438-find-the-team-size) |
 | [1481-students-with-invalid-departments](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1481-students-with-invalid-departments) |
+| [1546-find-the-quiet-students-in-all-exams](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1546-find-the-quiet-students-in-all-exams) |
 | [1671-the-most-recent-three-orders](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1671-the-most-recent-three-orders) |
 | [1688-the-most-recent-orders-for-each-product](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1688-the-most-recent-orders-for-each-product) |
 | [1735-the-most-frequently-ordered-products-for-each-customer](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1735-the-most-frequently-ordered-products-for-each-customer) |
