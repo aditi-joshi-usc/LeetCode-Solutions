@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0270-closest-binary-search-tree-value](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0339-nested-list-weight-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0339-nested-list-weight-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0339-nested-list-weight-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0339-nested-list-weight-sum) |
 | [0721-accounts-merge](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0721-accounts-merge) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0133-clone-graph](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0721-accounts-merge) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0207-course-schedule) |
 ## Topological Sort
 |  |
