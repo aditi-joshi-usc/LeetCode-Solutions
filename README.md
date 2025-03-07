@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1180-game-play-analysis-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1180-game-play-analysis-ii) |
 | [1181-game-play-analysis-iii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1181-game-play-analysis-iii) |
 | [1399-page-recommendations](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1399-page-recommendations) |
+| [1405-all-people-report-to-the-given-manager](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1405-all-people-report-to-the-given-manager) |
 | [1420-find-the-start-and-end-number-of-continuous-ranges](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1420-find-the-start-and-end-number-of-continuous-ranges) |
 | [1438-find-the-team-size](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1438-find-the-team-size) |
 | [1481-students-with-invalid-departments](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1481-students-with-invalid-departments) |
