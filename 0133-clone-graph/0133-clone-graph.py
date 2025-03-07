@@ -12,6 +12,9 @@ class Solution:
     def dfs(self, node, track):
         if node is None:
             return
+        if node in track:
+            return track[node]
+        
         track[node] = Node(node.val, None)
 
         for neighbor in node.neighbors:
