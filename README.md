@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0163-missing-ranges](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0163-missing-ranges) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0721-accounts-merge) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
