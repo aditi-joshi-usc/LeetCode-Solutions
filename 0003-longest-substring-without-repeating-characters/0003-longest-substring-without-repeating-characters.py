@@ -14,6 +14,6 @@ class Solution:
                     left+=1
             
             right+=1
-        maxlen = max(maxlen, len(s[left:right]))
+        maxlen = max(maxlen, right-left)
         return maxlen
         
