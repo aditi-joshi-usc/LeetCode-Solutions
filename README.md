@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0163-missing-ranges](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0163-missing-ranges) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -267,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
