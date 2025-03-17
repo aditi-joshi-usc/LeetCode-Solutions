@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Tree
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0636-exclusive-time-of-functions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0721-accounts-merge](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0777-toeplitz-matrix](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0777-toeplitz-matrix) |
 | [1028-interval-list-intersections](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1028-interval-list-intersections) |
