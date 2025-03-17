@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0270-closest-binary-search-tree-value](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1046-max-consecutive-ones-iii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Binary Tree
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0777-toeplitz-matrix) |
 | [1028-interval-list-intersections](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Sliding Window
 |  |
 | ------- |
