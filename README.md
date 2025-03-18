@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0163-missing-ranges](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0163-missing-ranges) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -295,4 +296,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
