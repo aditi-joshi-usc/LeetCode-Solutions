@@ -1,7 +1,8 @@
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:
         track = {0:0}
-
+        if len(nums)/2 == sum(nums):
+            return len(nums)
         sumval = 0
         maxlen = 0
         for i in range(len(nums)):
