@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0525-contiguous-array](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0636-exclusive-time-of-functions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0721-accounts-merge](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0525-contiguous-array](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0731-my-calendar-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Database
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
