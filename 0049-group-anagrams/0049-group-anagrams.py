@@ -9,8 +9,5 @@ class Solution:
                 track[slist].append(s)
             else:
                 track[slist] = [s]
-        res =[]
-        for key, val in track.items():
-            res.append(val)
-        return res
+        return list(track.values())
 
