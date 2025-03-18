@@ -11,7 +11,6 @@ class Solution:
             if g[i] <= s[j]:
                 count+=1
                 i+=1
-                j+=1
-            else:
-                j+=1
+            j+=1
+          
         return count
