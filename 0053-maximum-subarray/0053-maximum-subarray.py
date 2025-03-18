@@ -10,7 +10,8 @@ class Solution:
         for i in range(len(nums)):
             sumval+= nums[i]
 
-            maxsum = max(maxsum, sumval)
+            if maxsum < sumval:
+                maxsum = sumval
 
             if sumval<0:
                 sumval = 0
