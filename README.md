@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1046-max-consecutive-ones-iii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [3643-zero-array-transformation-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3639-zero-array-transformation-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [3639-zero-array-transformation-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Database
 |  |
 | ------- |
