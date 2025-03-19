@@ -4,8 +4,8 @@ class Solution:
 
         for start, end in queries:
             diff_arr[start] +=1
-            if end + 1 < len(nums): 
-                diff_arr[end+1] -=1
+             
+            diff_arr[end+1] -=1
         
         prefix = 0
         for i in range(len(nums)):
