@@ -17,21 +17,26 @@ class Solution:
         res = []
         while q:
             qlen = len(q)
-            level = []
+            level = [-1]*qlen
 
             for i in range(qlen):
                 node = q.popleft()
                 if node is None:
                     continue
-                level.append(node.val)
+                if flip:
+                    level[qlen-i-1] = node.val
+                else:
+                    level[i] = node.val
+                
+                #level.append(node.val)
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
             if level:
-                if flip:
-                    res.append(level[::-1])
-                else:
-                    res.append(level)
+                # if flip:
+                #     res.append(level[::-1])
+                # else:
+                res.append(level)
             flip =  not flip
         return res
