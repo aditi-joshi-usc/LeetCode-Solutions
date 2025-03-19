@@ -26,7 +26,7 @@ class Solution:
                 level.append(node.val)
                 if node.left:
                     q.append(node.left)
-                if root.right:
+                if node.right:
                     q.append(node.right)
             if level:
                 if flip:
