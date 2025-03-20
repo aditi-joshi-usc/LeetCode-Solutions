@@ -30,4 +30,4 @@ class Solution:
                 return righttail
             else:
                 return lefttail
-        return dfs(root)
+        dfs(root)
