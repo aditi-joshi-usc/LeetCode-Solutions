@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0850-insert-into-a-sorted-circular-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
 ## Stack
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Enumeration
 |  |
 | ------- |
