@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0270-closest-binary-search-tree-value](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0270-closest-binary-search-tree-value) |
+| [0658-find-k-closest-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0636-exclusive-time-of-functions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
+| [0658-find-k-closest-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 ## Heap (Priority Queue)
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -240,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1028-interval-list-intersections](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1028-interval-list-intersections) |
 | [1894-merge-strings-alternately](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
