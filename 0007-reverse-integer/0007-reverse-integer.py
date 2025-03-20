@@ -36,8 +36,8 @@ class Solution:
 
         if (x >= 2**(31) -1) or (x<= -2**(31)):
             return 0
-     
-        return x
+        else:
+            return x
         
 
 
