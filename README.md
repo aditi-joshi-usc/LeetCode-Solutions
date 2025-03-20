@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
@@ -24,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0270-closest-binary-search-tree-value](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0133-clone-graph](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0207-course-schedule) |
@@ -57,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0270-closest-binary-search-tree-value](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
