@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1546-find-the-quiet-students-in-all-exams](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1546-find-the-quiet-students-in-all-exams) |
 | [1671-the-most-recent-three-orders](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1671-the-most-recent-three-orders) |
 | [1688-the-most-recent-orders-for-each-product](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1688-the-most-recent-orders-for-each-product) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1735-the-most-frequently-ordered-products-for-each-customer](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1735-the-most-frequently-ordered-products-for-each-customer) |
 | [1852-biggest-window-between-visits](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1852-biggest-window-between-visits) |
 | [1898-leetflex-banned-accounts](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1898-leetflex-banned-accounts) |
