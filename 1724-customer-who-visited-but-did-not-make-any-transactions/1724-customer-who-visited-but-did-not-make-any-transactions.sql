@@ -4,7 +4,7 @@
 -- where Visits.visit_id not in (select visit_id from Transactions) 
 -- group by customer_id;
 
-select visits.customer_id, count(*) as count_no_trans 
+select visits.customer_id, count(visits.visit_id) as count_no_trans 
 from 
     visits
 left join
