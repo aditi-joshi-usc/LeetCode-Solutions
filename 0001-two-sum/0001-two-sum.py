@@ -10,3 +10,4 @@ class Solution:
         return [-1, -1]
 
 # time complexity = O(n)
+# space complexity= O(n)
