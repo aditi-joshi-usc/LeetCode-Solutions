@@ -8,3 +8,5 @@ class Solution:
             else:
                 track[target - nums[i]] = i
         return [-1, -1]
+
+# time complexity = O(n)
