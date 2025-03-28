@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0721-accounts-merge](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0721-accounts-merge) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0721-accounts-merge) |
