@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0270-closest-binary-search-tree-value](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0658-find-k-closest-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0252-meeting-rooms](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
@@ -159,11 +161,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0253-meeting-rooms-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0525-contiguous-array](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
