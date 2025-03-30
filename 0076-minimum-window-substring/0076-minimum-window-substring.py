@@ -1,6 +1,7 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        
+        if not t:
+            return ''
         track = {}
         for letter in t:
             if letter in track:
