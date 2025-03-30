@@ -22,11 +22,20 @@ class Solution:
                 return mutation_cnt
             
 
-            for i in range(len(bank)):
+            # for i in range(len(bank)):
 
-                if diff_one(bank[i], curr_gene) and bank[i] not in visited:
-                    q.append((bank[i], mutation_cnt+1))
-                    visited.add(bank[i])
+            #     if diff_one(bank[i], curr_gene) and bank[i] not in visited:
+            #         q.append((bank[i], mutation_cnt+1))
+            #         visited.add(bank[i])
+
+
+            for char in 'ACGT':
+                    for i in range(len(curr_gene)):
+                        neighbor = curr_gene[:i] + char + curr_gene[i+1:]
+                        if neighbor not in visited and neighbor in bank:
+                            q.append((neighbor, mutation_cnt+1))
+                            visited.add(neighbor)
+
         return -1
             
 
