@@ -14,8 +14,8 @@ class Solution:
                 if matrix[r][c] == 0:
                     row_list.add(r)
                     col_list.add(c)
-        for r in row_list:
-            matrix[r] = [0 for _ in range(COLS)]
-        for c in col_list:
+     
+        for c in range(COLS):
             for r in range(ROWS):
-                matrix[r][c] = 0
+                if c in col_list or r in row_list:
+                    matrix[r][c] = 0
