@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0415-add-strings) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0253-meeting-rooms-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
