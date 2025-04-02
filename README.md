@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0163-missing-ranges](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0163-missing-ranges) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0200-number-of-islands) |
