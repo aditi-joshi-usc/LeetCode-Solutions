@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0525-contiguous-array) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0252-meeting-rooms](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0721-accounts-merge) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0253-meeting-rooms-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Graph
 |  |
