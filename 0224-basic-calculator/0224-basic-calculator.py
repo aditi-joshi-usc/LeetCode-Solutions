@@ -1,20 +1,37 @@
 class Solution:
     def calculate(self, s: str) -> int:
-        stack, current =[], 0
+        stack, sign =[], 1
 
-        s = '(' + s + ')'
+        ans =0 
+        num =0
         for c in s:
             if c.isdigit():
-                current = 10*current + int(c)
+                num = 10*num + int(c)
+            elif c in '+-':
+                ans += sign * num
+
+                if c == '-':
+                    sign = -1
+                else:
+                    sign = 1
+                num = 0
             elif c =='(':
-                stack+= [0, '+']
-                current =0
-            elif c!=' ':
-                operator, previous = stack.pop(), stack.pop()
-                current = previous + (current if operator == '+' else -current)
-                if c == ')':
-                    continue
-                stack += [current, c]
-                current =0
-        return current
+                stack.append(ans)
+                stack.append(sign)
+                ans = 0
+                sign = 1
+            elif c == ')':
+                ans += sign*num
+                num = 0
+                
+                prev_sign = stack.pop()
+                prev_ans = stack.pop()
+                
+                ans = prev_ans+  prev_sign * ans
+                
+                sign=1
+        return ans + (sign*num)
+
+
+        
         
