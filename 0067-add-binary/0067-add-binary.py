@@ -1,17 +1,17 @@
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
         carry = 0
-
-        a = list(a)
-        b = list(b)
-
+        i = len(a)-1
+        j = len(b)-1
         res =[]
-        while a or b:
+        while i>=0 or j>=0:
             sumval = 0
-            if a:
-                sumval += int(a.pop())
-            if b:
-                sumval += int(b.pop())
+            if i>=0:
+                sumval += int(a[i])
+                i-=1
+            if j>=0:
+                sumval += int(b[j])
+                j-=1
             sumval+=carry
             res.append(str(sumval%2))
             carry = sumval//2
