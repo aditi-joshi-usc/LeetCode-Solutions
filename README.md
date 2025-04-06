@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0415-add-strings) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
