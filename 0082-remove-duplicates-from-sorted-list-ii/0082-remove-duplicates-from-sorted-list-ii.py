@@ -39,7 +39,7 @@ class Solution:
 
         while curr:
             isduplicate = False
-            while curr and curr.next and curr.val == curr.next.val:
+            while curr.next and curr.val == curr.next.val:
                 curr = curr.next
                 isduplicate = True
             if isduplicate:
