@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
@@ -484,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
