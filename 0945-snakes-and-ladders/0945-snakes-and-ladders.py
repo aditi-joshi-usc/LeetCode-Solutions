@@ -4,7 +4,7 @@ class Solution:
         board.reverse()
 
         def numPos(square):
-            square -=1 
+            square -=1 # because the squares start from 1
             r = square//length
             c  = square % length
             if r % 2 !=0:
