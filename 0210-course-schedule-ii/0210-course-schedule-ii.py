@@ -20,7 +20,9 @@ class Solution:
                 return 
             levels[course] = 1
             for pre in track[course]:
-                traverse(pre)
+                if levels[pre] !=2:
+                    traverse(pre)
+                
                 if levels[pre] !=2:
                     return
             if course not in res:
