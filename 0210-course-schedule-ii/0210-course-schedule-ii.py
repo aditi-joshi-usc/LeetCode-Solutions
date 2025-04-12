@@ -26,9 +26,8 @@ class Solution:
                 traverse(pre)
                 if levels[pre] !=2:
                     return
-            
-            levels[course] = 2
             if course not in res:
+                levels[course] = 2
                 res.append(course)
             
         for i in range(numCourses):
