@@ -16,10 +16,7 @@ class Solution:
         res = []
 
         def traverse(course):
-            if course>=numCourses:
-                return 
-            level  = levels[course]
-            if level !=0:
+            if levels[course] !=0:
                 return 
             levels[course] = 1
             for pre in track[course]:
