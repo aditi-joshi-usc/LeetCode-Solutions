@@ -1,7 +1,7 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        if not prerequisites:
-            return [n for n in range(numCourses)]
+        # if not prerequisites:
+        #     return [n for n in range(numCourses)]
         
         visited = 2
         unvisited = 0
@@ -22,7 +22,6 @@ class Solution:
             for pre in track[course]:
                 if levels[pre] !=2:
                     traverse(pre)
-                
                 if levels[pre] !=2:
                     return
             if course not in res:
