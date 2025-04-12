@@ -1,7 +1,7 @@
 class Solution:
     def snakesAndLadders(self, board: List[List[int]]) -> int:
         length = len(board)
-        board.reverse()
+        # board.reverse()
 
         def numPos(square):
             square -=1 # because the squares start from 1
@@ -10,7 +10,7 @@ class Solution:
             if r % 2 !=0:
                 c = length -1 - c
            
-            return [r,c]
+            return [length-r-1,c]
         
         q = deque()
         q.append((1, 0)) #[square, moves]
