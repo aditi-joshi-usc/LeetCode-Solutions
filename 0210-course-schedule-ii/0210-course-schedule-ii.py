@@ -19,9 +19,7 @@ class Solution:
             if course>=numCourses:
                 return 
             level  = levels[course]
-            if level == 2:
-                return 
-            if level == 1:
+            if level !=0:
                 return 
             levels[course] = 1
             for pre in track[course]:
