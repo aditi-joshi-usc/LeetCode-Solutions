@@ -24,19 +24,14 @@ class Solution:
             if level == 1:
                 return 
             levels[course] = 1
-            cantake = True
             for pre in track[course]:
-                if levels[pre] == 2:
-                    continue
-                if levels[pre] == 0:
-                    traverse(pre)
-                else:
-                    cantake = False
-                    break
-            if cantake:
-                levels[course] = 2
-                if course not in res:
-                    res.append(course)
+                traverse(pre)
+                if levels[pre] !=2:
+                    return
+            
+            levels[course] = 2
+            if course not in res:
+                res.append(course)
             
         for i in range(numCourses):
             traverse(i)
