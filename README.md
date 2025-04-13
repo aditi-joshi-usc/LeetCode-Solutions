@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0252-meeting-rooms](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0777-toeplitz-matrix) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0212-word-search-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Bit Manipulation
 |  |
@@ -533,4 +537,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
