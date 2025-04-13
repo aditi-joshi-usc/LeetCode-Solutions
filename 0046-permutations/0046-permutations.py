@@ -8,7 +8,7 @@ class Solution:
         def perm(subarray):
             if len(subarray) == nlen and subarray not in res:
                 res.append(subarray.copy())
-            
+                return
             for num in nums:
                 if num not in subarray:
                     subarray.append(num)
