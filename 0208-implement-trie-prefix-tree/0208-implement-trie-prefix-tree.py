@@ -42,6 +42,8 @@ class Trie:
 
 
     def startsWith(self, prefix: str) -> bool:
+        if not prefix:
+            return True
         node = self.root
         for w in prefix:
             if w in node.children:
