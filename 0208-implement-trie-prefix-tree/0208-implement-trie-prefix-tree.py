@@ -10,6 +10,9 @@ class Trie:
         self.root = letterNode()
 
     def insert(self, word: str) -> None:
+        if not word:
+            return
+       
         node  = self.root
         wordend = len(word) 
         for w in range(wordend):
