@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0729-my-calendar-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 ## Greedy
@@ -519,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
