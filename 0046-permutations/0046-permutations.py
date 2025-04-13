@@ -6,7 +6,7 @@ class Solution:
         nlen = len(nums)
 
         def perm(subarray):
-            if len(subarray) == nlen and subarray not in res:
+            if len(subarray) == nlen :
                 res.append(subarray.copy())
                 return
             for num in nums:
