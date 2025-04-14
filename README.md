@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0850-insert-into-a-sorted-circular-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0253-meeting-rooms-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
@@ -541,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
