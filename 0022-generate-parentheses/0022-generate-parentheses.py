@@ -6,7 +6,7 @@ class Solution:
         llen = 2*n
         res = []
         def backtrack(open, close, subparan):
-            if len(subparan) == llen and open == close:
+            if open == n and open == close:
                 res.append(subparan)
                 return
             if len(subparan) >llen:
