@@ -1,9 +1,6 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
 
-
-        
-        llen = 2*n
         res = []
         def backtrack(open, close, subparan):
             if open == n and open == close:
