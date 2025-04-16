@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [2383-add-two-integers](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2383-add-two-integers) |
 ## String
 |  |
 | ------- |
