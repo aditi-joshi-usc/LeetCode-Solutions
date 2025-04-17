@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-interval-list-intersections](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3639-zero-array-transformation-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 ## Line Sweep
 |  |
 | ------- |
