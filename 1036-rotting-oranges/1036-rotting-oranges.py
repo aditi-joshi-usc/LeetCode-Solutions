@@ -21,22 +21,19 @@ class Solution:
             qlen = len(q)
             for _ in range(qlen):
                 r,c = q.popleft()
-                if 0<=r<ROWS and 0<=c<COLS:
-                    if grid[r][c] == 0:
-                        continue
-                    if grid[r][c] == 1:
+                
+                for dr, dc in directions:
+                    nr,nc = r+dr, c+dc
+                    if 0<=nr<ROWS and 0<=nc<COLS and grid[nr][nc] ==1:
+                        q.append((nr,nc))
                         fresh_orange_cnt-=1
-                        grid[r][c] = 2
-                    for dr, dc in directions:
-                        nr,nc = r+dr, c+dc
-                        if 0<=nr<ROWS and 0<=nc<COLS and grid[nr][nc] ==1:
-                            q.append((nr,nc))
-                else:
-                    continue
-            if fresh_orange_cnt == 0:
-                return time
-            time+=1
-        return -1
+                        grid[nr][nc] = 2  
+            if q:
+                time+=1
+        if fresh_orange_cnt ==0:
+            return time
+        else:
+            return -1
       
 
 
