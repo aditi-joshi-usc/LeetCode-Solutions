@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0525-contiguous-array](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -463,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0778-reorganize-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 ## Graph
 |  |
 | ------- |
