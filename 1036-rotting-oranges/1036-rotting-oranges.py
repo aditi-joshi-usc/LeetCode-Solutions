@@ -13,7 +13,6 @@ class Solution:
         
         if fresh_orange_cnt == 0:
             return 0
-        visited = []
         directions = [(1,0), (0,1), (-1, 0), (0, -1)]
         time = 0
         while q:
@@ -22,16 +21,16 @@ class Solution:
             qlen = len(q)
             for _ in range(qlen):
                 r,c = q.popleft()
-                if 0<=r<ROWS and 0<=c<COLS and (r,c) not in visited:
+                if 0<=r<ROWS and 0<=c<COLS:
                     if grid[r][c] == 0:
                         continue
                     if grid[r][c] == 1:
                         fresh_orange_cnt-=1
                         grid[r][c] = 2
-                    visited.append((r,c))
                     for dr, dc in directions:
-                        if (r+dr, c+dc) not in q:
-                            q.append((r+dr, c+dc))
+                        nr,nc = r+dr, c+dc
+                        if 0<=nr<ROWS and 0<=nc<COLS and grid[nr][nc] ==1:
+                            q.append((nr,nc))
                 else:
                     continue
             if fresh_orange_cnt == 0:
