@@ -25,11 +25,13 @@ class Solution:
                     second_cnt+=1
                     if second_cnt!=0:
                         heapq.heappush(pq, (second_cnt, second_char))
+                    heapq.heappush(pq, (count,char))
                 else:
-                    return ""     
+                    return ""
+                
             else:
                 res.append(char)
                 count+=1
-            if count!=0:
-                heapq.heappush(pq, (count, char))
+                if count!=0:
+                    heapq.heappush(pq, (count, char))
         return ''.join(res)
