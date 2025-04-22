@@ -30,8 +30,6 @@ class Solution:
                         grid[nr][nc] = 2  
             if q:
                 time+=1
-            if fresh_orange_cnt ==0:
-                return time
             
         if fresh_orange_cnt ==0:
             return time
