@@ -30,7 +30,8 @@ class Solution:
                         grid[r][c] = 2
                     visited.append((r,c))
                     for dr, dc in directions:
-                        q.append((r+dr, c+dc))
+                        if (r+dr, c+dc) not in q:
+                            q.append((r+dr, c+dc))
                 else:
                     continue
             if fresh_orange_cnt == 0:
