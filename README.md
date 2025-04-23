@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0339-nested-list-weight-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0339-nested-list-weight-sum) |
 | [0399-evaluate-division](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0399-evaluate-division) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [1250-longest-common-subsequence](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
