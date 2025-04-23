@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0212-word-search-ii) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0212-word-search-ii) |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Bit Manipulation
