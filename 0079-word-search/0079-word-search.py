@@ -5,6 +5,14 @@ class Solution:
         n = len(board[0])
         visited = [[False for _ in range(n)] for i in range(m)]
         
+
+        word_cnt = Counter(word)
+        board_cnt = Counter(c for row in board for c in row)
+
+        for char in word_cnt:
+            if word_cnt[char] > board_cnt.get(char,0):
+                return False
+
         def backtrack(r, c, index):
             if index == len(word)-1:
                 return True
