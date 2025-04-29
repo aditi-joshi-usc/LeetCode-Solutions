@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0270-closest-binary-search-tree-value](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0300-longest-increasing-subsequence](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [2383-add-two-integers](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2383-add-two-integers) |
 ## String
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0252-meeting-rooms](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0433-minimum-genetic-mutation](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -589,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Iterator
 |  |
 | ------- |
