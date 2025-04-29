@@ -4,8 +4,6 @@ class Solution:
 
         for key, val in replacements:
             track[key] = val
-        
-        i = 0
 
         if not text:
             return text
