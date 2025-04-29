@@ -1,9 +1,9 @@
 class Solution:
     def applySubstitutions(self, replacements: List[List[str]], text: str) -> str:
-        track = {}
+        self.track = {}
 
         for key, val in replacements:
-            track[key] = val
+            self.track[key] = val
         
         i = 0
 
@@ -11,10 +11,10 @@ class Solution:
             return text
         
         
-        return self.replacesubstring(text, track)
+        return self.replacesubstring(text)
 
 
-    def replacesubstring(self, text, track):
+    def replacesubstring(self, text):
         res = []
         if '%' not in text:
             return text
@@ -26,7 +26,7 @@ class Solution:
                 j = i+1
                 while j < text_len and text[j] != '%':
                     j+=1
-                res.append(self.replacesubstring(track[text[i+1:j]], track))
+                res.append(self.replacesubstring(self.track[text[i+1:j]]))
                 i = j+1
             else:
                 res.append(text[i])
