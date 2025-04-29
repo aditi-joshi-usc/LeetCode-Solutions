@@ -16,6 +16,8 @@ class Solution:
 
     def replacesubstring(self, text, track):
         res = []
+        if '%' not in text:
+            return text
         text_len = len(text)
         i=0
         while i < text_len:
