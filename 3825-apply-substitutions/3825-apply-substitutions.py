@@ -7,7 +7,9 @@ class Solution:
         
         i = 0
 
-       
+        if not text:
+            return text
+        
         
         return self.replacesubstring(text, track)
 
