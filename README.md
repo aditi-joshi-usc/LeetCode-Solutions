@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [3825-apply-substitutions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3825-apply-substitutions) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [3825-apply-substitutions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3825-apply-substitutions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
+| [3825-apply-substitutions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3825-apply-substitutions) |
 ## Array
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3825-apply-substitutions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3825-apply-substitutions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2915-count-of-interesting-subarrays](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3825-apply-substitutions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3825-apply-substitutions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -517,11 +522,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+| [3825-apply-substitutions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3825-apply-substitutions) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [3825-apply-substitutions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3825-apply-substitutions) |
 ## Union Find
 |  |
 | ------- |
