@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2915-count-of-interesting-subarrays](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3430-count-days-without-meetings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3639-zero-array-transformation-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3825-apply-substitutions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3825-apply-substitutions) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1108-analyze-user-website-visit-pattern) |
+| [3430-count-days-without-meetings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
