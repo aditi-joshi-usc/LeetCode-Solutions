@@ -4,7 +4,7 @@ class Solution:
         sumnum = sum(nums)
         if sumnum%2 != 0:
             return False
-        halfsum = sumnum/2
+        halfsum = sumnum//2
         track ={}
         def backtrack(index, curr_sum):
             if curr_sum == halfsum:
