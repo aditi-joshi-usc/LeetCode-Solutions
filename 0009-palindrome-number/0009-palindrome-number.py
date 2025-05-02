@@ -9,3 +9,4 @@ class Solution:
             num = num//10
         
         return pal == x
+        # time complexity = O(n)
