@@ -27,3 +27,4 @@ class Solution:
         if list2:
             node.next = list2
         return dummy.next
+# time complexity = O(max(m,n))
