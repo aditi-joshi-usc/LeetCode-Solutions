@@ -11,6 +11,15 @@ class Solution:
                 track[slist] = [s]
         return list(track.values())
 
+
+        # Time complexity = O(n*k log k)
+        # where n is the number of strings and k is is the length of each string
+        # klogk is the time for sorting
+
+        # space complexity = O(n*k)
+        # where n are the keys and k is the len of each key
+        # this is worst case when there are no comman keys
+
         # track = defaultdict(list)
 
         # for s in strs:
