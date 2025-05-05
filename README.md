@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0778-reorganize-string) |
+| [1953-finding-mk-average](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1953-finding-mk-average) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0359-logger-rate-limiter](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0359-logger-rate-limiter) |
 | [0729-my-calendar-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+| [1953-finding-mk-average](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1953-finding-mk-average) |
 ## Greedy
 |  |
 | ------- |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+| [1953-finding-mk-average](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1953-finding-mk-average) |
 ## Backtracking
 |  |
 | ------- |
@@ -645,4 +648,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0359-logger-rate-limiter) |
+| [1953-finding-mk-average](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1953-finding-mk-average) |
+## Queue
+|  |
+| ------- |
+| [1953-finding-mk-average](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1953-finding-mk-average) |
 <!---LeetCode Topics End-->
