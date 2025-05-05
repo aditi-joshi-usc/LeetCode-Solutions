@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [3643-zero-array-transformation-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3763-separate-squares-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3763-separate-squares-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3639-zero-array-transformation-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3763-separate-squares-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3763-separate-squares-i) |
 | [3825-apply-substitutions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3825-apply-substitutions) |
 ## Sliding Window
 |  |
