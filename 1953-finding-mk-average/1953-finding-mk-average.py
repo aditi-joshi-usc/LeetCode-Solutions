@@ -67,7 +67,7 @@ class MKAverage:
         if len(self.q) < self.m:
             return -1
         
-        return self.curr_sum // len(self.mid)
+        return self.curr_sum // (self.m - 2*self.k)
         
 
 
