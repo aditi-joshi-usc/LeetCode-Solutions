@@ -4,8 +4,22 @@ class Solution:
 
         sub = []
 
+        def binary_search(sub, h):
+            left = 0
+            right = len(sub) - 1
+
+            while left<=right:
+                mid = (left+right)//2
+
+                if sub[mid] < h:
+                    left  = mid+1
+                else:
+                    right = mid-1
+            return left
+
+
         for env in envelopes:
-            i = bisect_left(sub, env[1])
+            i = binary_search(sub, env[1])
             if i == len(sub):
                 sub.append(env[1])
             else:
