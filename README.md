@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2915-count-of-interesting-subarrays](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3430-count-days-without-meetings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3763-separate-squares-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3763-separate-squares-i) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2915-count-of-interesting-subarrays](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3825-apply-substitutions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3825-apply-substitutions) |
 ## Divide and Conquer
 |  |
