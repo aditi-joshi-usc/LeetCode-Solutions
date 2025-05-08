@@ -18,6 +18,6 @@ class Solution:
                 else:
                     high -=1
             if diff == 0:
-                break
+                return target
         return target - diff
             
