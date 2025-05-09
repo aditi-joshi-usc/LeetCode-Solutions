@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [2383-add-two-integers](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2383-add-two-integers) |
+| [2998-count-symmetric-integers](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 ## String
 |  |
 | ------- |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [2998-count-symmetric-integers](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
