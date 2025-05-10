@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0591-tag-validator](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0591-tag-validator) |
 | [0636-exclusive-time-of-functions](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0591-tag-validator](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0591-tag-validator) |
 | [0721-accounts-merge](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
