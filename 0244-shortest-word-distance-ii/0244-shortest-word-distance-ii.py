@@ -1,7 +1,12 @@
 class WordDistance:
 
     def __init__(self, wordsDict: List[str]):
-        self.wordlist = wordsDict
+        self.track = defaultdict(list)
+
+        for i, word in enumerate(wordsDict):
+            self.track[word].append(i)
+
+
 
     def shortest(self, word1: str, word2: str) -> int:
         
@@ -19,26 +24,17 @@ class WordDistance:
         diff = 1
         '''
 
-        word1_loc = []
-        word2_loc = []
 
-        for i in range(len(self.wordlist)):
-            if self.wordlist[i] == word1:
-                word1_loc.append(i)
-            elif self.wordlist[i] == word2:
-                word2_loc.append(i)
-            else:
-                continue
         
         min_diff = float('inf')
         p1 = 0
         p2 = 0
-        l1 = len(word1_loc)
-        l2 = len(word2_loc)
+        l1 = len(self.track[word1])
+        l2 = len(self.track[word2])
         while p1 < l1 and p2 < l2:
-            min_diff = min(min_diff, abs(word1_loc[p1]-word2_loc[p2]))
+            min_diff = min(min_diff, abs(self.track[word1][p1]-self.track[word2][p2]))
 
-            if word1_loc[p1] < word2_loc[p2]:
+            if self.track[word1][p1] < self.track[word2][p2]:
                 p1+=1
             else:
                 p2+=1
