@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1526-html-entity-parser](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1526-html-entity-parser) |
 | [1894-merge-strings-alternately](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1319-unique-number-of-occurrences](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1526-html-entity-parser](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1526-html-entity-parser) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2915-count-of-interesting-subarrays](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
