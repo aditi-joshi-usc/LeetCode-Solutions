@@ -1,25 +1,34 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        track = defaultdict(int)
-        for num in nums:
-            if num in track: 
-                track[num] += 1
-            else:
-                track[num] = 1
-
-
-        # q = []
-        # for key, value in track.items():
-        #     q.append((value,key))
         
-        # res = heapq.nlargest(k, track, key = track.get)
-        # # result =  sorted(track.keys(), key = lambda x: track[x], reverse = True)[:k]
-        # # return result
-        # return res
+        ''' 
+        brute force:
+        sort the arr and return the 1st k elements
+        time complexity : O(nlogn)
 
-        heap = []
+
+        minheap:
+        push into the minheap and return k popped elements
+        time complexity for this  = O(n)
+        because heapify is done in linear time
+        heappop - O(logk) where k < n
+        '''
+        track=defaultdict(int)
+
+        for num in nums:
+            track[num]+=1
+        minheap =[]
         for key, value in track.items():
-            heapq.heappush(heap, (value, key))
-            if len(heap) > k:
-                heapq.heappop(heap)
-        return [item[1] for item in heap]
+            minheap.append((-value,key))
+
+
+        
+
+        heapq.heapify(minheap)
+
+        res = []
+
+        for i in range(k):
+            res.append(heapq.heappop(minheap)[1])
+        return res
+
