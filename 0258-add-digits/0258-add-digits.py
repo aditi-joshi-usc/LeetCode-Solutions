@@ -24,19 +24,20 @@ class Solution:
 
         if num ==0:
             return num
-        numlist = []
-        temp = num
+        # numlist = []
+        # temp = num
 
-        while temp!=0:
-            numlist.append(temp%10)
-            temp = temp//10
-        if len(numlist) == 1:
-            return num
-        while len(numlist) > 1:
-            temp = sum(numlist)
-            numlist = []
-            while temp!=0:
-                numlist.append(temp%10)
-                temp = temp//10
+        # while temp!=0:
+        #     numlist.append(temp%10)
+        #     temp = temp//10
+        # if len(numlist) == 1:
+        #     return num
+        # while len(numlist) > 1:
+        #     temp = sum(numlist)
+        #     numlist = []
+        #     while temp!=0:
+        #         numlist.append(temp%10)
+        #         temp = temp//10
 
-        return numlist[0]
+        # return numlist[0]
+        return num % 9 or 9
