@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1319-unique-number-of-occurrences](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1656-count-good-triplets](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2915-count-of-interesting-subarrays](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3430-count-days-without-meetings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [1656-count-good-triplets](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
