@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0068-text-justification) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0253-meeting-rooms-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0402-remove-k-digits](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0224-basic-calculator) |
