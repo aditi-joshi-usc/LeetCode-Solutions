@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
+| [1041-available-captures-for-rook](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
 | [1046-max-consecutive-ones-iii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0777-toeplitz-matrix) |
 | [0945-snakes-and-ladders](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
+| [1041-available-captures-for-rook](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
 ## Simulation
 |  |
 | ------- |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [1041-available-captures-for-rook](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
 ## Design
 |  |
 | ------- |
