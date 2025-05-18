@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [1500-count-largest-group](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [2383-add-two-integers](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2383-add-two-integers) |
 | [2998-count-symmetric-integers](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 ## String
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1319-unique-number-of-occurrences](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1500-count-largest-group](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1526-html-entity-parser](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1526-html-entity-parser) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
