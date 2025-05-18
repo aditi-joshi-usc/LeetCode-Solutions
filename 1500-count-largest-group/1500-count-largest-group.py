@@ -8,7 +8,7 @@ class Solution:
         for i in range(1, n+1):
             digit_sum = sum(int(d) for d in str(i))
             track[digit_sum] +=1
-            maxsize = max(maxsize, track[digit_sum])
+        maxsize = max(track.values())
         
         res = 0
 
