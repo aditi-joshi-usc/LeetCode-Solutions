@@ -12,7 +12,7 @@ class Solution:
         
         res = 0
 
-        for key, value in track.items():
+        for value in list(track.values()):
             if value == maxsize:
                 res+=1
         return res
