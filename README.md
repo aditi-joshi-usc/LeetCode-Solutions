@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0270-closest-binary-search-tree-value](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0300-longest-increasing-subsequence](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0362-design-hit-counter](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0362-design-hit-counter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0658-find-k-closest-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0362-design-hit-counter](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0362-design-hit-counter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0244-shortest-word-distance-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0244-shortest-word-distance-ii) |
 | [0359-logger-rate-limiter](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0359-logger-rate-limiter) |
+| [0362-design-hit-counter](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0362-design-hit-counter) |
 | [0729-my-calendar-i](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [1953-finding-mk-average](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1953-finding-mk-average) |
@@ -712,10 +715,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0359-logger-rate-limiter) |
+| [0362-design-hit-counter](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0362-design-hit-counter) |
 | [1953-finding-mk-average](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1953-finding-mk-average) |
 ## Queue
 |  |
 | ------- |
+| [0362-design-hit-counter](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/0362-design-hit-counter) |
 | [1953-finding-mk-average](https://github.com/aditi-joshi-usc/LeetCode-Solutions/tree/master/1953-finding-mk-average) |
 ## Brainteaser
 |  |
