@@ -1,19 +1,17 @@
 class HitCounter:
 
     def __init__(self):
-        self.tstamp = []
+        self.tstamp = deque()
 
     def hit(self, timestamp: int) -> None:
         self.tstamp.append(timestamp)
 
     def getHits(self, timestamp: int) -> int:
         
-        time_valid = timestamp-300
-        count = 0
-        for time in self.tstamp:
-            if time > time_valid:
-                count+=1
-        return count
+        while self.tstamp and timestamp - self.tstamp[0] >=300:
+            self.tstamp.popleft()
+        return len(self.tstamp)
+
 
 
 
